@@ -1,5 +1,3 @@
-# Pandas_Course
-
 # 📊 Pandas & Data Analysis Projects – Jupyter Notebooks
 
 This repository contains **Pandas basics notebooks and mini data analysis projects** created using Python and Jupyter Notebook.  
